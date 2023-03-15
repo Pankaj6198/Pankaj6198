@@ -43,19 +43,14 @@ href="https://github.com/Pankaj6198"><img src="https://activity-graph.herokuapp.
 ## :shield:  Badges 
 <html>
 <div>
-      <a href="https://www.credly.com/badges/a3973253-4e95-495b-ba1b-7624ca657d1f">
-         <img src="https://github.com/Anup-Narkhede/Anup-Narkhede/blob/main/solutions_architect.png" width="150 px" height = "150px" >
-      </a>
-     <a href="https://www.credly.com/badges/f3fe5f9d-0427-4d52-8ffe-ceb9cf3baec3">
-        <img src="https://github.com/Anup-Narkhede/Anup-Narkhede/blob/main/developer.png" width="150 px" height = "150px" >
-     </a>
-     <a href="https://www.credly.com/badges/7c20de9c-e554-49bb-b4cc-9921046c1198">
-        <img src="https://github.com/Anup-Narkhede/Anup-Narkhede/blob/main/practitioner.png" width="150 px" height = "150px" >
-     </a>
-    <a href="https://www.credly.com/badges/f98694af-f545-40e4-950b-152a7faff3d4">
-        <img src="https://github.com/Anup-Narkhede/Anup-Narkhede/blob/main/azure-fundamentals.png" width="150 px" height = "150px" >
+     
+    <a href="https://www.credly.com/badges/b3de0d4d-c142-445d-aa78-ab41e4ff2adc?source=linked_in_profile">
+        <img src="https://github.com/Pankaj6198/Pankaj6198/blob/main/azure-fundamentals.png" width="150 px" height = "150px" >
      </a>
    
+    <a href="https://www.credly.com/badges/dbf91243-9a43-4aa3-ab31-c4056206e55f?source=linked_in_profile">
+        <img src="https://github.com/Pankaj6198/Pankaj6198/blob/main/azureAI.png" width="150 px" height = "150px" >
+     </a>
   
    
   </div>
