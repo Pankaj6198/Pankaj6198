@@ -23,7 +23,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-43B02A?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/MySQL-43B02A?style=for-the-badge&logo=MySQL&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-4A154B?style=for-the-badge&logo=C&logoColor=A8B9CC)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
