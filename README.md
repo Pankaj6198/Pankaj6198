@@ -9,7 +9,7 @@
 <h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2>
  <img align ="right" src = "https://demobucketanup.s3.ap-south-1.amazonaws.com/output-onlinegiftools+(1).gif" width="350" height="350">
    
-[![Linkedin Badge](https://img.shields.io/badge/-AnupNarkhede-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pankaj-chaudhari-2144631ab)](https://www.linkedin.com/in/pankaj-chaudhari-2144631ab)
+[![Linkedin Badge](https://img.shields.io/badge/-PankajChaudhari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pankaj-chaudhari-2144631ab)](https://www.linkedin.com/in/pankaj-chaudhari-2144631ab)
 
   
    
@@ -65,6 +65,6 @@ href="http://www.github.com/Anup-Narkhede"><img src="https://activity-graph.hero
 </html>
 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Anup-Narkhede.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Pankaj6198.visitor-badge)
 
 
