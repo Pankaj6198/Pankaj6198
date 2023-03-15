@@ -49,7 +49,7 @@ href="https://github.com/Pankaj6198"><img src="https://activity-graph.herokuapp.
      </a>
    
     <a href="https://www.credly.com/badges/dbf91243-9a43-4aa3-ab31-c4056206e55f?source=linked_in_profile">
-        <img src="https://github.com/Pankaj6198/Pankaj6198/blob/main/azureAI.png" width="150 px" height = "150px" >
+        <img src="https://github.com/Pankaj6198/Pankaj6198/blob/main/azure-ai-fundamentals.png" width="150 px" height = "150px" >
      </a>
   
    
