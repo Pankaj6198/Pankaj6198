@@ -47,7 +47,7 @@ href="https://github.com/Pankaj6198"><img src="https://activity-graph.herokuapp.
         <img src="https://github.com/Pankaj6198/Pankaj6198/blob/main/azure-fundamentals.png" width="150 px" height = "150px" >
      </a>   
     <a href="https://www.credly.com/badges/dbf91243-9a43-4aa3-ab31-c4056206e55f?source=linked_in_profile">
-        <img src="https://github.com/Pankaj6198/Pankaj6198/blob/main/AZAI2.svg" width="150 px" height = "150px" > 
+        <img src="https://github.com/Pankaj6198/Pankaj6198/blob/main/AZAI2.png" width="150 px" height = "150px" > 
      </a>
   </div>
 </html>
