@@ -29,16 +29,11 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pankaj6198&hide=TeX&layout=compact)
 
 
                  
                   
-                  
- <p align="left">
- <!--                         
- <a href="https://github.com/Pankaj6198" target="_blank" rel="noreferrer"></a></p><b>My GitHub Stats</b><a
-href="https://github.com/Pankaj6198"><img src="https://activity-graph.herokuapp.com/graph?username=Pankaj6198&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+                 
                       
 ## :shield:  Badges 
 <html>
